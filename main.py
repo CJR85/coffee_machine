@@ -29,3 +29,6 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
+
+while True:
+    choice = input("What would you like? (espresso/latte/cappuccino): ")
